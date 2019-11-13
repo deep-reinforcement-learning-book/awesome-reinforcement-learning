@@ -30,7 +30,6 @@ Please help contribute this list by contacting [me](https://zsdonghao.github.io/
 
 ### Blog
 - [openai-baselines-ppo](https://openai.com/blog/openai-baselines-ppo/)
-- [] 
 
 
 ## Paper
