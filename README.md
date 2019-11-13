@@ -15,24 +15,24 @@ Reinforcement Learning has become an exciting direction in Computer Vision, Mach
 
 Please help contribute this list by contacting [me](https://zsdonghao.github.io/) or add [pull request](https://github.com/deep-reinforcement-learning-book/awesome-reinforcement-learning/pulls)
 
-## Projects
+## 1. Projects
 
 - [Tutorial for Academic](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning)
 - [RLzoo for Industry](https://github.com/tensorlayer/RLzoo)
 
 
-## Get Start
-### Teaching
+## 2. Get Start
+### 2.1 Teaching
 - [David Silver - Teaching Slices](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [David Sliver - Youtube Course Video](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [CMU 10703: Deep RL and Control Slices](https://katefvision.github.io)
 - [Berkeley CS 294 DRL, Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
-### Blog
+### 2.2 Blog
 - [openai-baselines-ppo](https://openai.com/blog/openai-baselines-ppo/)
 
 
-## Paper
+## 3. Paper
 
 - [andrewliao11/Deep-Reinforcement-Learning-Survey](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey)
 - [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
@@ -42,7 +42,7 @@ Please help contribute this list by contacting [me](https://zsdonghao.github.io/
 - [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
 
 
-## 中文
+## 4. 中文
 
 - [莫烦](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A3C/)
 - [深度强化学习 从AC到A3C](https://blog.csdn.net/jinzhuojun/article/details/72851548)
