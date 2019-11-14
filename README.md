@@ -27,6 +27,8 @@ Please help contribute this list by contacting [me](https://zsdonghao.github.io/
 - [David Sliver - Youtube Course Video](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [CMU 10703: Deep RL and Control Slices](https://katefvision.github.io)
 - [Berkeley CS 294 DRL, Fall 2017](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Deep Bayes - Russia](http://deepbayes.ru)
+- [Waterloo - Reinforcement Learning]()
 
 ### 2.2 Blog
 - [openai-baselines-ppo](https://openai.com/blog/openai-baselines-ppo/)
