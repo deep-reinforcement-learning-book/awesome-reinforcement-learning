@@ -46,5 +46,6 @@ Please help contribute this list by contacting [me](https://zsdonghao.github.io/
 
 ## 4. 中文
 
+- [研究与编程](https://github.com/zsdonghao/research-and-coding)
 - [莫烦](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A3C/)
 - [深度强化学习 从AC到A3C](https://blog.csdn.net/jinzhuojun/article/details/72851548)
