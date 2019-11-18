@@ -17,7 +17,7 @@ Please help contribute this list by contacting [me](https://zsdonghao.github.io/
 
 ## 1. Projects
 
-- [Tutorial for Academic](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning)
+- [Tutorial for Academic (Examples in the Book)](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning)
 - [RLzoo for Industry](https://github.com/tensorlayer/RLzoo)
 
 
